@@ -8,6 +8,7 @@ import { heroOne, heroTwo, heroThree } from '../data/HeroData';
 // Hero Feature Content Carousel
 
 const Home = () => {
+	{/*  Add some change */}
 	return (
 		<>
 			<Hero />
