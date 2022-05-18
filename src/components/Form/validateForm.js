@@ -1,3 +1,4 @@
+
 export default function validateForm({ name, email, password, confirmPass }) {
 	if (!name.trim()) {
 		return 'Username required';
